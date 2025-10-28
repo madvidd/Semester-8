@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Fri Jun 23 23:17:30 2023
+# Process ID: 12064
+# Current directory: C:/Users/Mohammad/Desktop/term 8/sobel-edge-detection
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18632 C:\Users\Mohammad\Desktop\term 8\sobel-edge-detection\sobel-edge-detection.xpr
+# Log file: C:/Users/Mohammad/Desktop/term 8/sobel-edge-detection/vivado.log
+# Journal file: C:/Users/Mohammad/Desktop/term 8/sobel-edge-detection\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/Mohammad/Desktop/term 8/sobel-edge-detection/sobel-edge-detection.xpr}
+save_project_as project_1 {C:/Users/Mohammad/Desktop/term 8/FPGA/final project - 98242093/sobel_edge_detection/project_1} -force
+import_files
